@@ -1,0 +1,12 @@
+android_app {
+    name: "XTwoDirs",
+    srcs: [
+        "src/**/*.java",
+    ],
+    resource_dirs: [
+        "res",
+    ],
+    platform_apis: true,
+    privileged: true,
+    certificate: "platform",
+} 

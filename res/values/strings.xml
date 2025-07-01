@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XTwoDirs</string>
+    <string name="save">Save</string>
+    <string name="show">Show</string>
+    <string name="copy">Copy to External</string>
+    <string name="export">Export to Documents</string>
+    <string name="hint_input">Enter text</string>
+    <string name="file_content_placeholder">File content will appear here</string>
+</resources> 

@@ -1,0 +1,30 @@
+# Android build files
+/build/
+/bin/
+/gen/
+/.gradle/
+/.idea/
+*.iml
+*.apk
+*.ap_ 
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Linux
+*~
+
+# Log files
+*.log
+
+# Other
+.gradle/
+output.json
+captures/
+.cxx/ 
