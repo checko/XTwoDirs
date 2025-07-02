@@ -7,6 +7,4 @@ android_app {
         "res",
     ],
     platform_apis: true,
-    privileged: true,
-    certificate: "platform",
 } 
